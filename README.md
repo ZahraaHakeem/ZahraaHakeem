@@ -16,8 +16,19 @@ Focused on developing AI-powered solutions using machine learning, data-driven a
 - 
 ## Tech Stack
 
-<p><strong>AI & Data Science:</strong> Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · RAG</p>
-<p><strong>Programming:</strong> Python · SQL · JavaScript · Java</p>
-<p><strong>AI & Software Integration:</strong> AI APIs · REST APIs · FastAPI · Software Engineering</p>
-<p><strong>Frameworks & Tools:</strong> PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Hugging Face · Git</p>
-<p><strong>Development:</strong> Android Development · ROS 2 · Gazebo · Robot Navigation</p>
+- **AI & Data Science:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG
+- **Programming:** Python, SQL, JavaScript, Java
+- **AI & Software Integration:** AI APIs, REST APIs, FastAPI, Software Engineering
+- **Frameworks & Tools:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Hugging Face, Git
+- **Development:** Android Development, ROS 2, Gazebo, Robot Navigation
+
+## Featured Projects
+
+### Namaa — AI-Based Child Malnutrition Screening System
+An end-to-end AI-powered system for child malnutrition screening, developed in response to the challenges of malnutrition in Gaza. The project involved developing and evaluating multimodal AI models to analyze child images and extract anthropometric measurements and nutritional status classifications, then integrating the trained models into a web application to transform the research into a practical, user-oriented solution.
+
+### Diabetes RAG — AI-Powered Question Answering System
+A Retrieval-Augmented Generation (RAG) system designed to provide context-aware answers to diabetes-related questions by retrieving relevant information from a specialized knowledge base.
+
+### Gaza Health Symptoms Survey & Data Analysis
+A data-driven project developed to analyze the prevalence of disease-related symptoms in Gaza through a structured community survey. The project involved designing and distributing the survey, cleaning and preprocessing the collected data, performing exploratory data analysis, and visualizing symptom patterns and related factors.
